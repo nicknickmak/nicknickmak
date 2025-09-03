@@ -11,7 +11,7 @@
 </p>
 
 <!-- Social icons -->
-<
+
 <p align="center">
 
   <a href="https://www.linkedin.com/in/your-linkedin">
